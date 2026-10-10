@@ -1,0 +1,14 @@
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.AssemblyInfo.cs
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\bin\Debug\net10.0\C#.exe
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\bin\Debug\net10.0\C#.deps.json
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\bin\Debug\net10.0\C#.runtimeconfig.json
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\bin\Debug\net10.0\C#.dll
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\bin\Debug\net10.0\C#.pdb
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.dll
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\refint\C#.dll
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.pdb
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\C#.genruntimeconfig.cache
+C:\Users\Bhakti Angadi\OneDrive\Desktop\MCA\OOT\LAB_2_ASSI\C#\obj\Debug\net10.0\ref\C#.dll
